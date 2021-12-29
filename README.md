@@ -1,4 +1,4 @@
-# mi_card_app
+# Personal Card
 
 A new Flutter project.
 
